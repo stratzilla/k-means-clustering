@@ -6,7 +6,7 @@ K-Means clustering is a form of unsupervised learning where you have data and kn
 
 Here's an example visualization:
 
-<a href="./images/perfect.gif"/>
+<a href="https://github.com/stratzilla/k-means-clustering/blob/master/images/perfect.gif"/>
 
 # Dependencies
 
